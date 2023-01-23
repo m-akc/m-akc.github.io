@@ -5,7 +5,6 @@ permalink: /contact
 ---
 
 # Get in touch?
-<meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://formspree.io/f/mwkjpzrj">
 
 {% include contact-form.html %}
 
