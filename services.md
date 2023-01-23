@@ -1,7 +1,7 @@
 ---
-title: /contact
+title: /services
 layout: page
-permalink: /contact
+permalink: /services
 ---
 
 # Get in touch?
