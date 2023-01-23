@@ -6,12 +6,12 @@ url: "https://m-akc.github.io"
 header_pages:
   - index.md
   - peter.md
+  - services.md
   - about.md
-  - contact.md
 
 style: light 
 
-footer: '<a href="https://t.me/m_akc">Telegram</a>'
+footer: 'Contact me: <a href="https://t.me/m_akc">Telegram</a>'
 
 # Build settings
 markdown: kramdown
