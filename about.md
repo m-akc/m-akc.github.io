@@ -15,5 +15,7 @@ permalink: /about/
 * Flutter/dart
 * Tauri/Rust
 * Docker
+* Git/Bash
 * VSCode/IntelliJ IDEA
+
 
