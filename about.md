@@ -5,7 +5,6 @@ permalink: /about/
 ---
 # Привет! 
 Меня зовут Михаил. Я - скромняга-интроверт 33 лет...
-# Photo
 ![img-description](/images/green.jpg){: width="250" }
 # Who am I?           
  * Программист 
