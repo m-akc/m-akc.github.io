@@ -154,3 +154,9 @@ Private Sub Form_Load()
     MsgBox "Hello, World!"
 End Sub
 {% endhighlight %}
+
+
+<br /><br />rust:
+{% highlight rust %}
+let mut myy:u8 = 0;
+{% endhighlight %}
