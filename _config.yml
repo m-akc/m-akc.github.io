@@ -1,6 +1,6 @@
 title: 'M-Akc Website'
 description: "Personal Blog"
-baseurl: "/"
+baseurl: "/a"
 url: "https://m-akc.ru"
 
 header_pages:
