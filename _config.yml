@@ -11,7 +11,7 @@ header_pages:
 
 style: light 
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<a href="https://t.me/m_akc">Telegram</a>'
 
 # Build settings
 markdown: kramdown
