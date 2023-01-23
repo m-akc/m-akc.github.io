@@ -3,14 +3,17 @@ layout: page
 title: /about me
 permalink: /about/
 ---
-Привет! 
+# Привет! 
 Меня зовут Михаил. Я - скромняга-интроверт 33 лет...
-# Who am i?
+# Who am I?
  * Программист 
  * Шахматист
  * Гитарист
  * Линуксоид
 
 # Skills
-Coming soon XD
+* Flutter/dart
+* Tauri/Rust
+* Docker
+* VSCode/IntelliJ IDEA
 
