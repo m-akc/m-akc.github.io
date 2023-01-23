@@ -15,4 +15,4 @@ footer: 'Contact me: <a href="https://t.me/m_akc">Telegram</a>'
 
 # Build settings
 #markdown: kramdown
-#theme: jekyll-theme-console
+theme: m-akc.github.io
