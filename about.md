@@ -7,6 +7,7 @@ permalink: /about/
 Меня зовут Михаил. Я - скромняга-интроверт 33 лет... Живу в Воронеже, предпочитаю удаленный формат работы.
 
 ![img-description]({{ "/images/green.jpg" | relative_url }}){: width="250" }
+![img-description]({{ "/images/green.jpg" | relative_url }}){: width="250" }
 # Who am I?           
  * Программист 
  * Шахматист
