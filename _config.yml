@@ -1,7 +1,7 @@
 title: 'M-Akc Website'
 description: "Personal Blog"
 baseurl: "/"
-url: "https://m-akc.github.io"
+url: "https://m-akc.ru"
 
 header_pages:
   - index.md
