@@ -30,3 +30,19 @@
   --code-color-17: #800000;
   --code-color-18: #bbbbbb;
 }
+
+#block1 {
+  float: left;
+  display: block;
+  width: 40px;
+  border: 1px solid blue;
+  margin: 2px;
+  }
+  
+  #block2 {
+  float: right;
+  display: block;
+  width: 40px;
+  border: 1px solid blue;
+  margin: 2px;
+  }
