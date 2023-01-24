@@ -33,23 +33,22 @@ Fedora Silverblue - Это неизменяемая операционная с�
 {% highlight bash %}
 rpm-ostree upgrade
 {% endhighlight %}
-Второе - Установить Flatpak.
+<br /><br />Второе - Установить Flatpak.
 {% highlight bash %}
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 {% endhighlight %}
-Дальше ставим RPM Fusion:
+<br /><br />Дальше ставим RPM Fusion:
 {% highlight bash %}
 sudo rpm-ostree install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 {% endhighlight %}
-Ставим Драйвера. У меня Nvidia, поэтому:
+<br /><br />Ставим Драйвера. У меня Nvidia, поэтому:
 {% highlight bash %}
 sudo rpm-ostree install akmod-nvidia xorg-x11-drv-nvidia
 sudo rpm-ostree install akmod-nvidia xorg-x11-drv-nvidia-cuda #optional if using nvidia-smi or cuda
 rpm-ostree install nvidia-vaapi-driver
 sudo rpm-ostree kargs --append=rd.driver.blacklist=nouveau --append=modprobe.blacklist=nouveau --append=nvidia-drm.modeset=1
 {% endhighlight %}
-
-Последнее, что осталось - убрать баг при котором дублируются снимки системы в Grub во время загрузки.
+<br /><br />Последнее, что осталось - убрать баг при котором дублируются снимки системы в Grub во время загрузки.
 Если у вас этот баг есть - то (В противном случае - этот шаг пропускаем):
 {% highlight bash %}
 sudo touch /boot/grub2/.grub2-blscfg-supported 
