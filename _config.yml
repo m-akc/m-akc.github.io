@@ -6,7 +6,7 @@ url: "https://m-akc.ru"
 header_pages:
   - index.md
   - peter.md
-  - services.md
+  - work.md
   - about.md
 
 style: light 

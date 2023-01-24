@@ -1,7 +1,7 @@
 ---
-title: /services
+title: /hire me!
 layout: page
-permalink: /services
+permalink: /work
 ---
 
 # Get in touch?
