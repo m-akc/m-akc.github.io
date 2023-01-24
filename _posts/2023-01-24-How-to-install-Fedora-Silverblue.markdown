@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to install Fedora Silverblue"
+title:  "Инструкция: как установить Fedora Silverblue"
 date:   2023-01-24 12:45:45 +0100
 categories:
 ---
