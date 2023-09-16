@@ -4,4 +4,4 @@ layout: page
 permalink: /work
 ---
 # Информация
-Coming Soon
+Работу на данный момент не ищу.
